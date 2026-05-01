@@ -7,13 +7,15 @@ redirect_from:
   - /about.html
 ---
 
+I am a sophomore in Computer Science at Northwestern Polytechnical University (NWPU), Xi'an, China, advised by Prof. Jiaqi Yang. My research interests lie in **Multimodal Large Language Models**, **Computer Vision**, and **Embodied AI**. I am passionate about building intelligent systems that perceive and interact with the physical world.
+
+---
+
 ## Education
 
 **Northwestern Polytechnical University (NWPU)**, Xi'an, China &nbsp;&nbsp; Sep. 2023 – Present
 
 *B.S. in Computer Science and Technology, School of Computer Science*
-
-**Core Courses:** Calculus (95), Linear Algebra (97), Probability and Statistics (95), Advanced Programming (96), Discrete Mathematics (95), Data Structures (90), Digital Logic Design (94), Computer Organization and Architecture (91), Operating System (91), Fundamentals of Computer Systems (94)
 
 - GPA: 3.95 / 4.1 &nbsp;&nbsp; Rank: **1 / 193**
 - Language: CET-4: 648, CET-6: 569
@@ -43,19 +45,17 @@ Paper: *Distilling the Essence: Physical Prior-Guided MoE and Information Bottle
 
 ## Competitions
 
-| | |
-|---|---|
-| *1st Prize*, National Robotics Championship & International Humanoid Olympiad | 2024 |
-| *2nd Prize*, 27th China Robot & Artificial Intelligence Competition | 2024 |
-| *2nd Prize*, National English Competition for College Students (NECCS) | 2025 |
-| *3rd Prize*, China Robot Competition & RoboCup China Open | 2025 |
+- *1st Prize*, National Robotics Championship & International Humanoid Olympiad, 2024
+- *2nd Prize*, 27th China Robot & Artificial Intelligence Competition, 2024
+- *2nd Prize*, National English Competition for College Students (NECCS), 2025
+- *3rd Prize*, China Robot Competition & RoboCup China Open, 2025
 
 ---
 
 ## Honors and Awards
 
-- China National Scholarship (Twice)
-- Outstanding Student & First-Class Scholarship, NWPU (Twice)
+- China National Scholarship, 2024, 2025
+- Outstanding Student & First-Class Scholarship, NWPU, 2024, 2025
 - Annual Academic Excellence Individual
 
 ---
